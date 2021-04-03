@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{23E68B01-71FE-4EC3-9FCC-B1FECA434A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetanitExample", "MetanitExample\MetanitExample.csproj", "{B2CEF2E6-995E-4A0A-B7BB-B3735B906065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E68B01-71FE-4EC3-9FCC-B1FECA434A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E68B01-71FE-4EC3-9FCC-B1FECA434A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E68B01-71FE-4EC3-9FCC-B1FECA434A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E68B01-71FE-4EC3-9FCC-B1FECA434A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CEF2E6-995E-4A0A-B7BB-B3735B906065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CEF2E6-995E-4A0A-B7BB-B3735B906065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CEF2E6-995E-4A0A-B7BB-B3735B906065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CEF2E6-995E-4A0A-B7BB-B3735B906065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
