@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MetanitExample.Hero
+namespace MetanitExample.HeroClasses
 {
     public class RunMovement : Movement
     {

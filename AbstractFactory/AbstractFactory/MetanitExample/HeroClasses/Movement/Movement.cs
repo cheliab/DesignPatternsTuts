@@ -1,4 +1,4 @@
-﻿namespace MetanitExample.Hero
+﻿namespace MetanitExample.HeroClasses
 {
     public abstract class Movement
     {
